@@ -13,7 +13,7 @@ Rick!wubbalubbadubdub - Bans All Members
 
 Rick!gottagetschwifty - Gives Admin 
 
-Rick!pickelrick - Pings Everyone
+Rick!picklerick - Pings Everyone
 
 
 ## Dependencies:
