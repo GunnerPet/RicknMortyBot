@@ -9,13 +9,12 @@ Get Admin
 Ping Everyone
 
 ## Commands:
-Rick!arturdebil - Bans All Members
+Rick!wubbalubbadubdub - Bans All Members
 
-Rick!myakish - Gives Admin 
+Rick!gottagetschwifty - Gives Admin 
 
-Rick!servernotgood - Pings Everyone
+Rick!pickelrick - Pings Everyone
 
-Rick!leaveserver - Makes bot leave (Cover up your tracks)
 
 ## Dependencies:
 Node 12.x or higher, install [here](https://nodejs.org/en/download/).
