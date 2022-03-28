@@ -33,8 +33,8 @@ fs.readdir("./commands/", (err, files) => {
 
 bot.on("ready", async () => {
 
-	console.log(`PossumBot Is Now Activated`);
-	bot.user.setActivity(`With Knives`);
+	console.log(`Rick And Morty Is Now Activated`);
+	bot.user.setActivity(`with a portal gun`);
 
     bot.generateInvite({
 
