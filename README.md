@@ -35,7 +35,7 @@ Node 12.x or higher, install [here](https://nodejs.org/en/download/).
 
 7. Open botsettings.json in the Rick n Morty bot folder in a text editor and paste in your bots token where it says YourToken, then save the file.
 
-8. Run start.bat and you will receive a bot invite link. You need to convince an admin to let it join with admin perms.
+8. Run start.bat and you will receive the bots invite link.
 
 ## Disclamer:
 I am not responsible for anything done with this bot. This is for educational purposes only.
